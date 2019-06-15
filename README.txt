@@ -50,6 +50,3 @@ http://flexslider.woothemes.com/
 
 CountTo
 https://github.com/mhuggins/jquery-countTo
-
-Demo Images:
-http://unsplash.com/
